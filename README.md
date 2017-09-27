@@ -1,1 +1,2 @@
 # SndbxHP14SegDisplay
+Inspired by Gerrit Grundwald's excellent JavaFX Controls (https://harmoniccode.blogspot.ch/2013/11/enzo-part-i.html) I'm trying to implement Hewlett-Packard's old LCD displays with JavaFX. These displays are containing up to 12 14-Segment digits with - sometimes - additional 15th, 16th and 17th segment per digit. While the 17th segment is a headlong triangle, which is used as a pointer, 15th and 16th segment are used to form a decimal point or collon respectively.
